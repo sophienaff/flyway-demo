@@ -1,0 +1,11 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flyway">
+  <rect width="48" height="48" rx="15" fill="#143b4e"></rect>
+  
+  <path d="M8.5 35 C 17 30.5, 24 24, 39.5 13" fill="none" stroke="#2f5468" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="0.5 4.2"></path>
+  
+  <circle cx="11" cy="33" r="2.3" fill="#7cc0dd"></circle>
+  <circle cx="17.5" cy="29" r="2.3" fill="#7cc0dd"></circle>
+  <circle cx="24" cy="24.2" r="2.3" fill="#8fcbe4"></circle>
+  
+  <path d="M28 18.6 C 30.3 13.8, 32.6 13.8, 34.7 17.8 C 36.8 13.8, 39.1 13.8, 41.4 18.6" fill="none" stroke="#3ba0d8" stroke-width="2.7" stroke-linecap="round"></path>
+</svg>
