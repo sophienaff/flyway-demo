@@ -104394,7 +104394,7 @@ k=n.w
 if(k===3)s=n.a.d?"Save changes":"Describe the windows"
 else s="Continue"
 A:{if(0===k){k=$.e5()
-k=A.b([new A.xd("Name your side","Create a descriptive name for this side of your house",m,m),A.aAd(m,B.d_,!0,m,!0,B.D,m,A.aXV(),n.x,m,m,m,m,m,2,A.Gz(m,new A.fk(4,A.aG(12),new A.aL(B.ai,1,B.u,-1)),m,m,m,m,m,m,!0,new A.fk(4,A.aG(12),new A.aL(B.ai,1,B.u,-1)),m,m,m,m,m,B.h,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,!0,!1,m,m,m,m,m,m,m,m,m,m,m,m,m,m),B.aj,!0,m,!0,m,!1,m,B.co,m,m,m,m,m,m,m,m,1,m,m,!1,"\u2022",m,new A.aO5(n),m,new A.aO6(n,j),m,!1,m,m,!1,m,!0,m,B.cX,m,m,m,m,m,m,m,m,m,m,m,k,!0,B.aK,m,B.kz,m,B.i8,m,m)],t.p)
+k=A.b([new A.xd("Name your side","Create a descriptive name for this side of your building",'A short label like "back", "front", or "street side".',m),A.aAd(m,B.d_,!0,m,!0,B.D,m,A.aXV(),n.x,m,m,m,m,m,2,A.Gz(m,new A.fk(4,A.aG(12),new A.aL(B.ai,1,B.u,-1)),m,m,m,m,m,m,!0,new A.fk(4,A.aG(12),new A.aL(B.ai,1,B.u,-1)),m,m,m,m,m,B.h,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,!0,!0,!1,m,m,m,m,m,m,m,m,m,m,m,m,m,m),B.aj,!0,m,!0,m,!1,m,B.co,m,m,m,m,m,m,m,m,1,m,m,!1,"\u2022",m,new A.aO5(n),m,new A.aO6(n,j),m,!1,m,m,!1,m,!0,m,B.cX,m,m,m,m,m,m,m,m,m,m,m,k,!0,B.aK,m,B.kz,m,B.i8,m,m)],t.p)
 break A}if(1===k){k=t.p
 r=A.b([new A.xd("Sun exposure","Which way does this side face?",m,m)],k)
 for(q=j.b,p=0;p<n.gxg().f.length;++p){o=A.b([new A.vj(n.gxg().f[p].c,m,n.gxg().f[p].a,n.gxg().f[p].b,q===p,new A.aO7(i,p),m)],k)
